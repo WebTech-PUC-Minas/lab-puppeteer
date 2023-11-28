@@ -1,28 +1,23 @@
 <!-- Exemplo de uso do template: https://github.com/kspencerl/lab-springboot-basic-api -->
 
-# Nome do Projeto
+# Lab puppeteer
+O objetivo deste lab é ensinar base da biblioteca npm puppeteer
 
-<!--Breve descrição do projeto aqui -->
-
+### O que é
+puppeteer é um framework do npm que é feito para utilizar junto ao node, que conssite em um navegador "autonomo" que pode ser programado para executar uma seria de açoes automatisadas exatamente como um usuario
 
 ## Tecnologias utilizadas
-Linguagens, Frameworks e Bibliotecas utilizadas na construção do projeto.
-
 <!-- Link com os badges para inserir abaixo https://devicon.dev/ -->
 <div style="display: flex; gap: 10px;">
-  <img width="50px" src="">             <!--coloque o link do ícone no src -->
-  <img width="50px" src="">
-  <img width="50px" src="">
-  <img width="50px" src="">
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">            
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
 </div>
 
 ## Onde Aplicar
 Este projeto pode ser aplicado em diversas situações:
-- <!--Exemplos listados aqui -->
-- <!--Exemplos listados aqui -->
-- <!--Exemplos listados aqui -->
-- <!--Exemplos listados aqui -->
-
+- Testes automatizados/Interaçoes automatizadas
+- Web scraping
+- Geração de Screenshots ou PDFs
 
 
 # Sumário
@@ -41,89 +36,56 @@ Este projeto pode ser aplicado em diversas situações:
 
 
 
-## Instalações
+## Pré-Requisitos
 
 Siga com precisão as orientações de configuração do ambiente para assegurar eficácia consistente no desenvolvimento do projeto.
- 
-### Pré-Requisitos
-<!-- Neste setor, coloque as instalações necessárias para realizar o projeto-->
-- **[Nome](site para download aqui)** <!--  - inserir breve comentário ao lado  -->
-- **[Nome](site para download aqui)**
-- **[Nome](site para download aqui)**
-- **[Nome](site para download aqui)**
 
-### Recursos adicionais
-<!-- Aqui você pode inserir sites ou ferramentas online que não serão necessárias instalar, mas serão necessárias para realizar o projeto-->
-- **[Nome](site para download aqui)**
+#### Windows:
+Instale o setup da versão mais recente do node nesse link:
+https://nodejs.org/en/download
 
+Depois execute esse comando no powershell para verificar a versão:
+```bash
+node -v
+npm -v
+```
+#### Linux:
+Execute esse comando para instalar curl:
+```bash
+sudo apt update
+sudo apt install nodejs
+sudo apt install npm
+```
+Para verificar a isntalação utilize:
+```bash
+node -v
+npm -v
+```
+> [!IMPORTANT]
+> Essa instalação serve apenas para distribuição Ubuntu/Debian
+### Instalações
+- todas as dependencias ja estao colocadas dentro do package.json para instalar execute:
+```bash
+npm install
+```
 
 ## Roadmap
- ### STEP 1 - Título do Passo
-1. **Explicação**
+**cada projeto tem seu roadmap proprio por isso cada um deles tem seu proprio readme**
 
+[Clicar botao](clicar_botao) - Programa que mostra o funcionamento de uma aplicação que clica em um botão
 
-2. **Explicação**
-   - Explicação
-   - Explicação
+[Google forms](google_forms) - Programa que prenche 500 veses um formulario do google
 
+[Musica](musica) - Programa que faz a converção de uma url de uma musica do Deezer e recebe uma url do Spotfy
 
-3. **Explicação**
-   - Explicação
+[Gerador de pdf](pdfGenerator) - Progarama que recebe uma url e retorna um pdf da pagina
 
-
-4. **Explicação** 
-
-
-5. **Explicação**
-    - Explicação
-
-
-### STEP 2 - Título do Passo
-1. **Explicação**
-
-
-2. **Explicação**
-    - Explicação
-    - Explicação
-
-![imagem](img.png)
-
-3. **Explicação**
-  - 
-
-
-  - 
-
-
-  
-
-![img.png](img.png)
-
-4. **Explicação**
-
-  - 
-
-
-  - 
-
-
-
-5. **Explicação**
-  - 
-
- ![img.png](img.png)
-
-  - .
-    - .
-    - 
-
-
+[Prencher input](preencher_input) - Programa que prenceh um input com um texto especifico
 ## Contato
-Seu nome - [seuemail@gmail.com](mailto:seuemail@gmail.com).
+Henrque Silverio Nahim - [hsnahim@gmail.com](mailto:hsnahim@gmail.com).
 
-GitHub: [github.com/seuUser](https://github.com/seuUser)
+GitHub: [github.com/hsnahim](https://github.com/hsnahim)
 
 ## License
 
 Este projeto é licenciado sob a [Nome da Licença](URL da Licença) - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
-
