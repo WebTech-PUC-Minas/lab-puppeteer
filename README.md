@@ -22,21 +22,15 @@ Este projeto pode ser aplicado em diversas situações:
 
 # Sumário
 
-* [Instalações](#instalações)
-  * [Pré-Requisitos](#pré-requisitos)
-  * [Configuração de Ambiente](#configuração-de-ambiente)
-* [Roadmap](#roadmap)
-  * [Passo 1](#step-1---inicialização-do-projeto-com-spring-initializr)
-  * [Passo 2](#step-2---configuração-do-projeto-e-migrações-com-flyway)
-  * [Passo 3](#step-3)
-  * [Passo 4](#step-4)
+* [Instalação](#instalação)
+* [Projetos](#projetos)
 * [Contato](#contato)
 * [License](#license)
 
 
 
 
-## Pré-Requisitos
+## Instalação
 
 Siga com precisão as orientações de configuração do ambiente para assegurar eficácia consistente no desenvolvimento do projeto.
 
@@ -63,13 +57,8 @@ npm -v
 ```
 > [!IMPORTANT]
 > Essa instalação serve apenas para distribuição Ubuntu/Debian
-### Instalações
-- todas as dependencias ja estao colocadas dentro do package.json para instalar execute:
-```bash
-npm install
-```
 
-## Roadmap
+## Projetos
 **cada projeto tem seu roadmap proprio por isso cada um deles tem seu proprio readme**
 
 [Clicar botao](clicar_botao) - Programa que mostra o funcionamento de uma aplicação que clica em um botão
