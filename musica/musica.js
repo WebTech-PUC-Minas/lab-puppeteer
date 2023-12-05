@@ -1,10 +1,11 @@
 const puppeteer = require("puppeteer");
+const url = 'https://deezer.page.link/BxLUVpTUCEUSH3oz9'
 
 async function getDadosMusica() {
   const browser = await puppeteer.launch({ timeout: 1000, headless: false });
   const page = await browser.newPage();
 
-  await page.goto('https://deezer.page.link/BxLUVpTUCEUSH3oz9', { waitUntil: ['networkidle0', 'domcontentloaded'], timeout: 0 });
+  await page.goto(url, { waitUntil: ['networkidle0', 'domcontentloaded'], timeout: 0 });
 
   const dadosMusica = await page.evaluate(() => {
     const NomeMusicaElement = document.querySelector("#page_naboo_track > div.catalog-content > div > div.css-1xh3s9i > div > h2");

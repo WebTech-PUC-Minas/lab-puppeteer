@@ -1,0 +1,14 @@
+{
+  "name": "google_forms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "google_forms.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.5.2"
+  }
+}
