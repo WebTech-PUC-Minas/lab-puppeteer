@@ -74,7 +74,3 @@ npm -v
 Henrque Silverio Nahim - [hsnahim@gmail.com](mailto:hsnahim@gmail.com).
 
 GitHub: [github.com/hsnahim](https://github.com/hsnahim)
-
-## License
-
-Este projeto é licenciado sob a [Nome da Licença](URL da Licença) - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
