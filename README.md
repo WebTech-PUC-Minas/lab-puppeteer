@@ -9,7 +9,7 @@ puppeteer é um framework do npm que é feito para utilizar junto ao node, que c
 ## Tecnologias utilizadas
 <!-- Link com os badges para inserir abaixo https://devicon.dev/ -->
 <div style="display: flex; gap: 10px;">
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">            
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>  
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
 </div>
 
@@ -23,6 +23,7 @@ Este projeto pode ser aplicado em diversas situações:
 # Sumário
 
 * [Instalação](#instalação)
+* [Estruturas](#estruturas)
 * [Projetos](#projetos)
 * [Contato](#contato)
 * [License](#license)
@@ -33,6 +34,9 @@ Este projeto pode ser aplicado em diversas situações:
 ## Instalação
 
 Siga com precisão as orientações de configuração do ambiente para assegurar eficácia consistente no desenvolvimento do projeto.
+
+* [Windows](#windows)
+* [Linux](#linux)
 
 #### Windows:
 Instale o setup da versão mais recente do node nesse link:
@@ -58,6 +62,73 @@ npm -v
 > [!IMPORTANT]
 > Essa instalação serve apenas para distribuição Ubuntu/Debian
 
+## Estruturas
+
+#### Estrutura de requisição
+```js
+const puppeteer = require('puppeteer');
+```
+Isso fara com que toda vez que for digitado puppeteer fara a chamada de requisição dos comandos do puppeteer
+
+#### Estruturas de codigo funcional
+Para começar é importante ressaltar que a biblioteca tem algumas exigencias
+
+tudo deve estar contido em uma função async:
+```js
+async function nomeDaFuncao(){
+  await ...
+}
+```
+> [!IMPORTANT]
+> await é um comando indispensavel para o funcinamento da biblioteca
+
+Como mas um comando especifico para abrir um navegador
+```js
+const browser = await puppeteer.launch({ timeout: 1000, headless: false });
+```
+> headless pode ser mudado para "new", com o intuito de não ser exibido uma tela de navegador  
+
+Para que seja funcional outro requisito nessesario teremos de colocar um comando no inicio de cada linha de comando
+```js
+await comando
+```
+Vamos agora para a introdução a comandos especificos
+* Abertura de uma nova pagina e para ir para uma nova url
+```js
+const page = await browser.newPage();
+await page.goto = page.goto('url', {timeout: 0})
+```
+
+* Tirar uma screenshot
+```js
+await page.screenshot({ path: 'caminhoDoArquivo' });
+```
+
+* Gerar um pdf da pagina
+```js
+await page.pdf({ path: 'caminhoDoArquivo', format: 'A4' });
+```
+
+* Preencher um input
+```js
+await page.locator("path do html").fill('o que sera escrito');
+```
+
+* Seleção de um elemento para uma ação posterior
+```js
+const element = await page.waitForSelector('body > center > form > input[type=button]');
+```
+
+* Comando para clicar em um elemento pre-selecionado 
+```js
+await element.click();
+```
+
+* comando para capturar informaçoes do site
+```js
+const NomeDaVariavel = document.querySelector("path do html");
+```
+
 ## Projetos
 **cada projeto tem seu roadmap proprio por isso cada um deles tem seu proprio readme**
 
@@ -71,6 +142,8 @@ npm -v
 
 [Prencher input](preencher_input) - Programa que prenceh um input com um texto especifico
 ## Contato
-Henrque Silverio Nahim - [hsnahim@gmail.com](mailto:hsnahim@gmail.com).
+Email: [hsnahim@gmail.com](mailto:hsnahim@gmail.com)
 
-GitHub: [github.com/hsnahim](https://github.com/hsnahim)
+GitHub: [hsnahim](https://github.com/hsnahim)
+
+Linkedin: [Henrique Nahim](https://www.linkedin.com/in/henrique-nahim-3a71a8267/)
