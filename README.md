@@ -26,7 +26,6 @@ Este projeto pode ser aplicado em diversas situações:
 * [Estruturas](#estruturas)
 * [Projetos](#projetos)
 * [Contato](#contato)
-* 
 
 ## Instalação
 
