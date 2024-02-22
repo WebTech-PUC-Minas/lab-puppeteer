@@ -128,6 +128,7 @@ await element.click();
 ```js
 const NomeDaVariavel = document.querySelector("path do html");
 ```
+> path do html refere ao caminho de divs e classes ate a chegada no elemento que você quer
 
 ## Projetos
 **cada projeto tem seu roadmap proprio por isso cada um deles tem seu proprio readme**
