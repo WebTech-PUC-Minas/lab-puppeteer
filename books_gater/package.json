@@ -1,8 +1,8 @@
 {
-  "name": "google_forms",
+  "name": "books_gater",
   "version": "1.0.0",
-  "description": "# Sumário",
-  "main": "google_forms.js",
+  "description": "",
+  "main": "books_gater.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

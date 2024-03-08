@@ -4,7 +4,7 @@
 O objetivo deste lab é ensinar base da biblioteca npm puppeteer
 
 ### O que é
-puppeteer é um framework do npm que é feito para utilizar junto ao node, que conssite em um navegador "autonomo" que pode ser programado para executar uma seria de açoes automatisadas exatamente como um usuario
+puppeteer é um framework do npm que é feito para utilizar junto ao node, que consiste em um navegador "autonomo" que pode ser programado para executar uma serie de ações automatizadas exatamente como um usuario, alem de ter acesso a funçoes do proprio navegador.
 
 ## Tecnologias utilizadas
 <!-- Link com os badges para inserir abaixo https://devicon.dev/ -->
@@ -15,7 +15,7 @@ puppeteer é um framework do npm que é feito para utilizar junto ao node, que c
 
 ## Onde Aplicar
 Este projeto pode ser aplicado em diversas situações:
-- Testes automatizados/Interaçoes automatizadas
+- Testes automatizados/Interações automatizadas
 - Web scraping
 - Geração de Screenshots ou PDFs
 
@@ -26,10 +26,6 @@ Este projeto pode ser aplicado em diversas situações:
 * [Estruturas](#estruturas)
 * [Projetos](#projetos)
 * [Contato](#contato)
-* [License](#license)
-
-
-
 
 ## Instalação
 
@@ -68,7 +64,7 @@ npm -v
 ```js
 const puppeteer = require('puppeteer');
 ```
-Isso fara com que toda vez que for digitado puppeteer fara a chamada de requisição dos comandos do puppeteer
+Isso fara com que dentro da constante puppeteer ficara armazenada todas as funçoes, por isso toda vez que for requisitada ira carregar consigo tudo do puppeteer
 
 #### Estruturas de codigo funcional
 Para começar é importante ressaltar que a biblioteca tem algumas exigencias
@@ -80,7 +76,7 @@ async function nomeDaFuncao(){
 }
 ```
 > [!IMPORTANT]
-> await é um comando indispensavel para o funcinamento da biblioteca
+> await é um comando indispensável para o funcinamento da biblioteca
 
 Como mas um comando especifico para abrir um navegador
 ```js
@@ -119,15 +115,16 @@ await page.locator("path do html").fill('o que sera escrito');
 const element = await page.waitForSelector('body > center > form > input[type=button]');
 ```
 
-* Comando para clicar em um elemento pre-selecionado 
+* Comando para clicar em um elemento pre-selecionado (feito no exemplo a cima)
 ```js
 await element.click();
 ```
 
-* comando para capturar informaçoes do site
+* comando para capturar informações do site
 ```js
 const NomeDaVariavel = document.querySelector("path do html");
 ```
+> path do html refere ao caminho de divs e classes ate a chegada no elemento que você quer
 
 ## Projetos
 **cada projeto tem seu roadmap proprio por isso cada um deles tem seu proprio readme**
