@@ -131,13 +131,13 @@ const NomeDaVariavel = document.querySelector("path do html");
 
 [Clicar botao](clicar_botao) - Programa que mostra o funcionamento de uma aplicação que clica em um botão
 
-[Google forms](google_forms) - Programa que prenche 500 veses um formulario do google
+[Google forms](google_forms) - Programa que prenche 500 vezes um formulario do google
 
-[Musica](musica) - Programa que faz a converção de uma url de uma musica do Deezer e recebe uma url do Spotfy
+[Musica](musica) - Programa que faz a conversão de uma url de uma musica do Deezer e recebe uma url do Spotfy
 
 [Gerador de pdf](pdfGenerator) - Progarama que recebe uma url e retorna um pdf da pagina
 
-[Prencher input](preencher_input) - Programa que prenceh um input com um texto especifico
+[Prencher input](preencher_input) - Programa que preenche um input com um texto especifico
 ## Contato
 Email: [hsnahim@gmail.com](mailto:hsnahim@gmail.com)
 
