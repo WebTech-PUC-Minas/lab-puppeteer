@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bottleneck": "^2.19.5",
     "puppeteer": "21.5.2"
   }
 }
