@@ -1,0 +1,15 @@
+{
+  "name": "prices_gater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prices_gater.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-2-csv": "^5.5.1",
+    "puppeteer": "^22.6.2"
+  }
+}

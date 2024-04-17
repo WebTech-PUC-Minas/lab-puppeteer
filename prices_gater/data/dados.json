@@ -1,0 +1,902 @@
+[
+ {
+  "nomeDoProduto": "AWD-IT Infinity White (AWD-5500-3060-IFW)",
+  "preco": "£749.99",
+  "marca": "AWD-IT",
+  "memoriaRam": "16 GB",
+  "processador": "AMD Ryzen 5",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Acer Nitro N50-650 (DG.E3GEK.00W)",
+  "preco": "£899.00",
+  "marca": "Acer",
+  "memoriaRam": "16 GB",
+  "processador": "Intel Core i5",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Apple iMac (2023) M3 8C CPU 8C GPU 8GB 256GB SSD 24\"",
+  "preco": "£1,290.95",
+  "marca": "Apple",
+  "memoriaRam": "8 GB",
+  "processador": "Apple M3",
+  "tipoDeGabinete": "All-in-one",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Acer Predator Orion 3000 PO3-650",
+  "preco": "£999.00",
+  "marca": "Acer",
+  "memoriaRam": "16 GB",
+  "processador": "-",
+  "tipoDeGabinete": "Tower",
+  "promocao": "9.10 %"
+ },
+ {
+  "nomeDoProduto": "Apple Mac Mini (2023) M2 8C CPU 10C GPU 8GB 256GB",
+  "preco": "£584.98",
+  "marca": "Apple",
+  "memoriaRam": "8 GB",
+  "processador": "Apple M2",
+  "tipoDeGabinete": "Compact",
+  "promocao": "1.85 %"
+ },
+ {
+  "nomeDoProduto": "Apple iMac (2021) - M1 OC 8C GPU 8GB 512GB 24\"",
+  "preco": "£1,007.97",
+  "marca": "Apple",
+  "memoriaRam": "8 GB",
+  "processador": "Apple M1",
+  "tipoDeGabinete": "All-in-one",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Apple iMac (2023) M3 8C CPU 10C GPU 8GB 512GB SSD 24\"",
+  "preco": "£1,654.97",
+  "marca": "Apple",
+  "memoriaRam": "8 GB",
+  "processador": "Apple M3",
+  "tipoDeGabinete": "All-in-one",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "ASUS ROG Strix GT15 G15CF-51240F193W",
+  "preco": "£914.99",
+  "marca": "ASUS",
+  "memoriaRam": "8 GB",
+  "processador": "Intel Core i5",
+  "tipoDeGabinete": "Tower",
+  "promocao": "23.69 %"
+ },
+ {
+  "nomeDoProduto": "ASUS ROG Strix GT15 G15CF-51240F210W i5-12400F Tower",
+  "preco": "£899.98",
+  "marca": "ASUS",
+  "memoriaRam": "16 GB",
+  "processador": "-",
+  "tipoDeGabinete": "Tower",
+  "promocao": "2.39 %"
+ },
+ {
+  "nomeDoProduto": "Apple iMac (2021) - M1 OC 8C GPU 8GB 256GB 24\"",
+  "preco": "£1,458.18",
+  "marca": "Apple",
+  "memoriaRam": "8 GB",
+  "processador": "Apple M1",
+  "tipoDeGabinete": "All-in-one",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Apple iMac (2023) M3 8C CPU 10C GPU 8GB 256GB SSD 24\"",
+  "preco": "£1,299.00",
+  "marca": "Apple",
+  "memoriaRam": "8 GB",
+  "processador": "Apple M3",
+  "tipoDeGabinete": "All-in-one",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "HP AIO 22-dd2010na",
+  "preco": "£329.99",
+  "marca": "HP",
+  "memoriaRam": "4 GB",
+  "processador": "Intel Pentium Silver",
+  "tipoDeGabinete": "All-in-one",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Stormforce Onyx Pc Gaming Bundle Amd",
+  "preco": "£699.00",
+  "marca": "Stormforce",
+  "memoriaRam": "-",
+  "processador": "-",
+  "tipoDeGabinete": "-",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "MSI MAG Codex 6 13NUC5-018UK Tower NVIDIA",
+  "preco": "£849.00",
+  "marca": "MSI",
+  "memoriaRam": "16 GB",
+  "processador": "Intel Core i5",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Intel NUC 12 Pro Mini PC NUC12WSKi7",
+  "preco": "£521.49",
+  "marca": "Intel",
+  "memoriaRam": "-",
+  "processador": "Intel Core i7",
+  "tipoDeGabinete": "Barebone",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Apple Mac Mini (2023) M2 Pro 10C CPU 16C GPU 16GB 512GB",
+  "preco": "£1,234.99",
+  "marca": "Apple",
+  "memoriaRam": "16 GB",
+  "processador": "Apple M2 Pro",
+  "tipoDeGabinete": "Compact",
+  "promocao": "0.40 %"
+ },
+ {
+  "nomeDoProduto": "Lenovo Legion Tower 5i Gen 8 i7, RTX 3060",
+  "preco": "£1,199.00",
+  "marca": "Lenovo",
+  "memoriaRam": "16 GB",
+  "processador": "-",
+  "tipoDeGabinete": "Tower",
+  "promocao": "29.43 %"
+ },
+ {
+  "nomeDoProduto": "ASUS Vivo A3202 AiO",
+  "preco": "£352.99",
+  "marca": "ASUS",
+  "memoriaRam": "8 GB",
+  "processador": "-",
+  "tipoDeGabinete": "All-in-one",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Apple Mac Studio 2023 M2 Max 32GB 512GB",
+  "preco": "£1,748.15",
+  "marca": "Apple",
+  "memoriaRam": "-",
+  "processador": "Apple M2 Max",
+  "tipoDeGabinete": "-",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Acer Nitro 50 N50-650 (DG.E3GEK.005)",
+  "preco": "£799.00",
+  "marca": "Acer",
+  "memoriaRam": "16 GB",
+  "processador": "Intel Core i5",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Acer Predator Orion 3000 PO3-650",
+  "preco": "£1,799.99",
+  "marca": "Acer",
+  "memoriaRam": "16 GB",
+  "processador": "Intel Core i7",
+  "tipoDeGabinete": "-",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Acer Aspire TC-1780 Tower 512GB",
+  "preco": "£499.99",
+  "marca": "Acer",
+  "memoriaRam": "-",
+  "processador": "Intel Core i5",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Lenovo Legion T5 26ARA8 90UY002VUK",
+  "preco": "£1,900.00",
+  "marca": "Lenovo",
+  "memoriaRam": "16 GB",
+  "processador": "AMD Ryzen 7",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "3XS Core 4060Ti RGB Gaming",
+  "preco": "£969.00",
+  "marca": "3XS",
+  "memoriaRam": "16 GB",
+  "processador": "AMD Ryzen 5",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "MSI MAG Codex 6 13NUC7-017UK Core i7",
+  "preco": "£849.00",
+  "marca": "MSI",
+  "memoriaRam": "16 GB",
+  "processador": "Intel Core i7",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Apple Mac Mini (2023) M2 8C CPU 10C GPU 8GB 512GB",
+  "preco": "£754.99",
+  "marca": "Apple",
+  "memoriaRam": "8 GB",
+  "processador": "Apple M2",
+  "tipoDeGabinete": "Compact",
+  "promocao": "0.66 %"
+ },
+ {
+  "nomeDoProduto": "Stormforce Onyx Gaming Pc - Amd Ryzen 5 16Gb",
+  "preco": "£499.99",
+  "marca": "Stormforce",
+  "memoriaRam": "-",
+  "processador": "AMD Ryzen 7",
+  "tipoDeGabinete": "-",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Lenovo Ideacentre Aio 3 All-In One",
+  "preco": "£599.00",
+  "marca": "Lenovo",
+  "memoriaRam": "-",
+  "processador": "-",
+  "tipoDeGabinete": "All-in-one",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Apple iMac (2021) - M1 OC 7C GPU 8GB 256GB 24\"",
+  "preco": "£1,186.46",
+  "marca": "Apple",
+  "memoriaRam": "8 GB",
+  "processador": "Apple M1",
+  "tipoDeGabinete": "All-in-one",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "CyberPower Eurus Gaming Pc Bundle",
+  "preco": "£649.00",
+  "marca": "CyberPower",
+  "memoriaRam": "-",
+  "processador": "-",
+  "tipoDeGabinete": "-",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Dell Alienware Aurora R14 Gaming Desktop",
+  "preco": "£3,299.00",
+  "marca": "Dell",
+  "memoriaRam": "16 GB",
+  "processador": "-",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Acer Predator Orion 3000",
+  "preco": "£189.74",
+  "marca": "Acer",
+  "memoriaRam": "16 GB",
+  "processador": "Intel Core i7",
+  "tipoDeGabinete": "-",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "LG 27CN650N-6A All-in-One PC/workstation IntelÃÂ®",
+  "preco": "£180.85",
+  "marca": "LG",
+  "memoriaRam": "-",
+  "processador": "-",
+  "tipoDeGabinete": "All-in-one",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "HP Slim S01-pF2003na",
+  "preco": "£329.99",
+  "marca": "HP",
+  "memoriaRam": "8 GB",
+  "processador": "Intel Core i3",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Lenovo ThinkStation P3 Tower 30GS001VUK Core i5-13600 512GB",
+  "preco": "£719.99",
+  "marca": "Lenovo",
+  "memoriaRam": "32 GB",
+  "processador": "-",
+  "tipoDeGabinete": "Tower",
+  "promocao": "1.37 %"
+ },
+ {
+  "nomeDoProduto": "Dell OptiPlex 24 AIO Plus Core i7-13700",
+  "preco": "£1,121.04",
+  "marca": "Dell",
+  "memoriaRam": "16 GB",
+  "processador": "-",
+  "tipoDeGabinete": "-",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "ASUS Zen AiO A5200WFAK-BA109T",
+  "preco": "£635.64",
+  "marca": "ASUS",
+  "memoriaRam": "8 GB",
+  "processador": "Intel Core i3",
+  "tipoDeGabinete": "All-in-one",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Lenovo IdeaCentre Gaming 5 17IAB7 i5-12400F Tower Core...",
+  "preco": "£549.00",
+  "marca": "Lenovo",
+  "memoriaRam": "16 GB",
+  "processador": "Intel Core i5",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Acer Predator Orion 3000 PO3-650 Intel Core",
+  "preco": "£999.99",
+  "marca": "Acer",
+  "memoriaRam": "16 GB",
+  "processador": "-",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Lenovo IdeaCentre AIO 3 24ALC6",
+  "preco": "£399.99",
+  "marca": "Lenovo",
+  "memoriaRam": "-",
+  "processador": "-",
+  "tipoDeGabinete": "All-in-one",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Medion Erazer Engineer X31",
+  "preco": "£819.98",
+  "marca": "Medion",
+  "memoriaRam": "16 GB",
+  "processador": "Intel Core i7",
+  "tipoDeGabinete": "Tower",
+  "promocao": "3.53 %"
+ },
+ {
+  "nomeDoProduto": "Lenovo ThinkCentre M90a Gen 3 11VF002TUK",
+  "preco": "£805.99",
+  "marca": "Lenovo",
+  "memoriaRam": "8 GB",
+  "processador": "Intel Core i5",
+  "tipoDeGabinete": "All-in-one",
+  "promocao": "5.18 %"
+ },
+ {
+  "nomeDoProduto": "HP All-in-one 27-cb1001ng",
+  "preco": "£726.43",
+  "marca": "HP",
+  "memoriaRam": "16 GB",
+  "processador": "AMD Ryzen 5",
+  "tipoDeGabinete": "All-in-one",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Acer Nitro N50-640 (DG.E2VEK.006)",
+  "preco": "£999.00",
+  "marca": "Acer",
+  "memoriaRam": "16 GB",
+  "processador": "Intel Core i7",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Stormforce Crystal Ryzen 5 32GB 1TB RTX4070Ti",
+  "preco": "£2,049.00",
+  "marca": "Stormforce",
+  "memoriaRam": "32 GB",
+  "processador": "-",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "-",
+  "preco": "£999.00",
+  "marca": "MSI",
+  "memoriaRam": "16 GB",
+  "processador": "Intel Core i5",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Lenovo 11sx000puk Thinkcentre Neo 50s I3-12100",
+  "preco": "£359.99",
+  "marca": "Lenovo",
+  "memoriaRam": "-",
+  "processador": "-",
+  "tipoDeGabinete": "-",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Dell OptiPlex 7010 i5-13500T MFF",
+  "preco": "£376.64",
+  "marca": "Dell",
+  "memoriaRam": "8 GB",
+  "processador": "Intel Core i5",
+  "tipoDeGabinete": "Compact",
+  "promocao": "18.83 %"
+ },
+ {
+  "nomeDoProduto": "Intel NUC 12 Pro NUC12WSHi7",
+  "preco": "£307.99",
+  "marca": "Intel",
+  "memoriaRam": "-",
+  "processador": "Intel Core i7",
+  "tipoDeGabinete": "Barebone",
+  "promocao": "32.50 %"
+ },
+ {
+  "nomeDoProduto": "Lenovo ThinkCentre neo 70t 11YU000HUK",
+  "preco": "£479.99",
+  "marca": "Lenovo",
+  "memoriaRam": "16 GB",
+  "processador": "Intel Core i9",
+  "tipoDeGabinete": "Tower",
+  "promocao": "4.00 %"
+ },
+ {
+  "nomeDoProduto": "HP Pro 290 G9 6B2S2EA",
+  "preco": "£498.00",
+  "marca": "HP",
+  "memoriaRam": "8 GB",
+  "processador": "Intel Core i5",
+  "tipoDeGabinete": "Compact",
+  "promocao": "1.19 %"
+ },
+ {
+  "nomeDoProduto": "HP Z2 G9 Workstation 865L4ET",
+  "preco": "£869.68",
+  "marca": "HP",
+  "memoriaRam": "16 GB",
+  "processador": "Intel Core i7",
+  "tipoDeGabinete": "Compact",
+  "promocao": "7.67 %"
+ },
+ {
+  "nomeDoProduto": "Acer Predator Orion 3000 PO3-650 (DG.BK4EK.015)",
+  "preco": "£1,899.00",
+  "marca": "Acer",
+  "memoriaRam": "16 GB",
+  "processador": "Intel Core i7",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Acer C24-1851 23.8in i7 8GB 1TB",
+  "preco": "£699.99",
+  "marca": "Acer",
+  "memoriaRam": "-",
+  "processador": "-",
+  "tipoDeGabinete": "All-in-one",
+  "promocao": "13.90 %"
+ },
+ {
+  "nomeDoProduto": "Asrock DeskMini X300 90BXG3T01-A10GA0W",
+  "preco": "£164.86",
+  "marca": "Asrock",
+  "memoriaRam": "-",
+  "processador": "-",
+  "tipoDeGabinete": "Barebone",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Lenovo Legion T7 34IMZ5 90Q8002SUK",
+  "preco": "£1,699.44",
+  "marca": "Lenovo",
+  "memoriaRam": "16 GB",
+  "processador": "Intel Core i7",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Dell OptiPlex 7010 i5-13500 SFF",
+  "preco": "£549.00",
+  "marca": "Dell",
+  "memoriaRam": "-",
+  "processador": "-",
+  "tipoDeGabinete": "Compact",
+  "promocao": "0.85 %"
+ },
+ {
+  "nomeDoProduto": "Dell Precision 5820 (5YYXT)",
+  "preco": "£2,026.60",
+  "marca": "Dell",
+  "memoriaRam": "32 GB",
+  "processador": "Intel Core i9",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Lenovo Legion T7 34IMZ05 90Q8002RUK",
+  "preco": "£2,401.27",
+  "marca": "Lenovo",
+  "memoriaRam": "32 GB",
+  "processador": "Intel Core i7",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Lenovo Legion 7i Gaming Tower NVIDIA GeForce RTX",
+  "preco": "£2,999.00",
+  "marca": "Lenovo",
+  "memoriaRam": "-",
+  "processador": "-",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Dell OptiPlex 7010 Plus Micro",
+  "preco": "£758.84",
+  "marca": "Dell",
+  "memoriaRam": "-",
+  "processador": "Intel Core i5",
+  "tipoDeGabinete": "Compact",
+  "promocao": "4.91 %"
+ },
+ {
+  "nomeDoProduto": "Scan 3XS SP4060TI8GR7",
+  "preco": "£1,079.99",
+  "marca": "Scan",
+  "memoriaRam": "-",
+  "processador": "-",
+  "tipoDeGabinete": "-",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Intel NUC 9 Extreme Kit - NUC9i5QNX",
+  "preco": "£767.90",
+  "marca": "Intel",
+  "memoriaRam": "-",
+  "processador": "Intel Core i5",
+  "tipoDeGabinete": "Barebone",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Acer Aspire C24-1300 All-In-One Desktop Pc 23.8In",
+  "preco": "£449.00",
+  "marca": "Acer",
+  "memoriaRam": "-",
+  "processador": "AMD Ryzen 5",
+  "tipoDeGabinete": "All-in-one",
+  "promocao": "24.32 %"
+ },
+ {
+  "nomeDoProduto": "Acer Aspire C24-1300 23.8\" Tower",
+  "preco": "£429.00",
+  "marca": "Acer",
+  "memoriaRam": "8 GB",
+  "processador": "AMD Ryzen 5",
+  "tipoDeGabinete": "All-in-one",
+  "promocao": "18.19 %"
+ },
+ {
+  "nomeDoProduto": "ASUS A3402 All In One Desktop 24In",
+  "preco": "£499.99",
+  "marca": "ASUS",
+  "memoriaRam": "-",
+  "processador": "-",
+  "tipoDeGabinete": "Compact",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "ASUS ROG Tower G22CH-1370KF065W Core i7-13700KF 32GB 2TB",
+  "preco": "£2,470.00",
+  "marca": "ASUS",
+  "memoriaRam": "-",
+  "processador": "-",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "HP OMEN GT21-1020na i7-13700K Tower Core",
+  "preco": "£2,299.00",
+  "marca": "HP",
+  "memoriaRam": "-",
+  "processador": "-",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Intel NUC 11 Essential UCFF BNUC11ATKC40002",
+  "preco": "£162.30",
+  "marca": "Intel",
+  "memoriaRam": "-",
+  "processador": "Intel Celeron",
+  "tipoDeGabinete": "Barebone",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Lenovo ThinkCentre M90s Gen 3 11TX0002UK",
+  "preco": "£661.99",
+  "marca": "Lenovo",
+  "memoriaRam": "8 GB",
+  "processador": "Intel Core i5",
+  "tipoDeGabinete": "Compact",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Intel NUC 13 Pro Kit NUC13ANHi5",
+  "preco": "£465.28",
+  "marca": "Intel",
+  "memoriaRam": "-",
+  "processador": "Intel Core i5",
+  "tipoDeGabinete": "Barebone",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "MSI MAG Infinite S3 11TG -068UK",
+  "preco": "£1,226.56",
+  "marca": "MSI",
+  "memoriaRam": "16 GB",
+  "processador": "Intel Core i5",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Acer Nitro 50 N50-640 (DG.E2VEK.005)",
+  "preco": "£969.89",
+  "marca": "Acer",
+  "memoriaRam": "8 GB",
+  "processador": "Intel Core i5",
+  "tipoDeGabinete": "Tower",
+  "promocao": "0.21 %"
+ },
+ {
+  "nomeDoProduto": "HP Omen 45L GT22-0020na",
+  "preco": "£1,999.99",
+  "marca": "HP",
+  "memoriaRam": "16 GB",
+  "processador": "Intel Core i7",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "MSI Cubi N JSL Celeron-N4500 Barebone Mini-PC",
+  "preco": "£122.82",
+  "marca": "MSI",
+  "memoriaRam": "-",
+  "processador": "-",
+  "tipoDeGabinete": "Compact",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Lenovo ThinkCentre neo 30a Intel® Core",
+  "preco": "£599.99",
+  "marca": "Lenovo",
+  "memoriaRam": "-",
+  "processador": "Intel Core i5",
+  "tipoDeGabinete": "All-in-one",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Dell OptiPlex 7010 Core i5 Pro 64-bit",
+  "preco": "£516.14",
+  "marca": "Dell",
+  "memoriaRam": "16 GB",
+  "processador": "Intel Core i5",
+  "tipoDeGabinete": "Compact",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Apple Mac Studio M2 Ultra 24C 60C GPU 64GB 1TB SSD",
+  "preco": "£3,499.16",
+  "marca": "Apple",
+  "memoriaRam": "-",
+  "processador": "Apple M2",
+  "tipoDeGabinete": "Compact",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "HP 15L TG02-1013na i5-13400F Tower",
+  "preco": "£849.99",
+  "marca": "HP",
+  "memoriaRam": "-",
+  "processador": "-",
+  "tipoDeGabinete": "Tower",
+  "promocao": "5.45 %"
+ },
+ {
+  "nomeDoProduto": "Dell OptiPlex 7410 23.8\"",
+  "preco": "£838.43",
+  "marca": "Dell",
+  "memoriaRam": "8 GB",
+  "processador": "Intel Core i5",
+  "tipoDeGabinete": "All-in-one",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "ASUS Vivo AIO V241EAK-BA142T",
+  "preco": "£406.51",
+  "marca": "ASUS",
+  "memoriaRam": "8 GB",
+  "processador": "Intel Core i3",
+  "tipoDeGabinete": "All-in-one",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "ASUS Mini PC PN52-BBR959XD",
+  "preco": "£759.73",
+  "marca": "ASUS",
+  "memoriaRam": "-",
+  "processador": "AMD Ryzen 9",
+  "tipoDeGabinete": "Barebone",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Lenovo V35s-07ADA 11HF004QUK",
+  "preco": "£389.99",
+  "marca": "Lenovo",
+  "memoriaRam": "8 GB",
+  "processador": "AMD Ryzen 5",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Lenovo Legion T5 26IRB8 90UU0062UK",
+  "preco": "£1,900.00",
+  "marca": "Lenovo",
+  "memoriaRam": "16 GB",
+  "processador": "Intel Core i7",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Dell OptiPlex 7010 i5-13500 SFF",
+  "preco": "£498.99",
+  "marca": "Dell",
+  "memoriaRam": "8 GB",
+  "processador": "Intel Core i5",
+  "tipoDeGabinete": "Compact",
+  "promocao": ".00 %"
+ },
+ {
+  "nomeDoProduto": "Lenovo ThinkCentre neo 50t 11SE002UUK",
+  "preco": "£525.00",
+  "marca": "Lenovo",
+  "memoriaRam": "8 GB",
+  "processador": "Intel Core i5",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Lenovo ThinkCentre M90s Gen 3 11TX0005UK",
+  "preco": "£780.00",
+  "marca": "Lenovo",
+  "memoriaRam": "16 GB",
+  "processador": "Intel Core i7",
+  "tipoDeGabinete": "Compact",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "HP Pro 400 G9 6B2D1EA",
+  "preco": "£399.99",
+  "marca": "HP",
+  "memoriaRam": "8 GB",
+  "processador": "Intel Core i3",
+  "tipoDeGabinete": "Compact",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "HP Omen 40L GT21-0010na",
+  "preco": "£782.99",
+  "marca": "HP",
+  "memoriaRam": "16 GB",
+  "processador": "AMD Ryzen 5",
+  "tipoDeGabinete": "Tower",
+  "promocao": "10.00 %"
+ },
+ {
+  "nomeDoProduto": "-",
+  "preco": "£1,199.00",
+  "marca": "-",
+  "memoriaRam": "-",
+  "processador": "AMD Ryzen 5",
+  "tipoDeGabinete": "Tower",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Asrock DeskMeet X300 90BXG4501-A10GA0W",
+  "preco": "£194.62",
+  "marca": "Asrock",
+  "memoriaRam": "-",
+  "processador": "-",
+  "tipoDeGabinete": "Barebone",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Intel NUC 12 Enthusiast Kit RNUC12SNKI72002",
+  "preco": "£1,331.82",
+  "marca": "Intel",
+  "memoriaRam": "-",
+  "processador": "Intel Core i7",
+  "tipoDeGabinete": "Barebone",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "ASUS PN64 Core i5 12500H Ultra-Compact Mini",
+  "preco": "£412.55",
+  "marca": "ASUS",
+  "memoriaRam": "-",
+  "processador": "-",
+  "tipoDeGabinete": "Compact",
+  "promocao": "7.05 %"
+ },
+ {
+  "nomeDoProduto": "ASUS ROG Strix G13CH i5 16GB 1TB RTX3060Ti",
+  "preco": "£889.99",
+  "marca": "ASUS",
+  "memoriaRam": "-",
+  "processador": "-",
+  "tipoDeGabinete": "Tower",
+  "promocao": "1.00 %"
+ },
+ {
+  "nomeDoProduto": "Dell Precision 3260 Compact USFF",
+  "preco": "£1,072.63",
+  "marca": "Dell",
+  "memoriaRam": "-",
+  "processador": "Intel Core i7",
+  "tipoDeGabinete": "-",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Lenovo ThinkCentre neo 50q Mini i3 i3-1215U",
+  "preco": "£349.99",
+  "marca": "Lenovo",
+  "memoriaRam": "8 GB",
+  "processador": "Intel Core i3",
+  "tipoDeGabinete": "Compact",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Lenovo ThinkCentre M75s Gen 2 11R8002QUK",
+  "preco": "£446.87",
+  "marca": "Lenovo",
+  "memoriaRam": "8 GB",
+  "processador": "-",
+  "tipoDeGabinete": "-",
+  "promocao": "-"
+ },
+ {
+  "nomeDoProduto": "Intel NUC Kit BNUC11ATKC20002",
+  "preco": "£135.55",
+  "marca": "Intel",
+  "memoriaRam": "-",
+  "processador": "Intel Celeron",
+  "tipoDeGabinete": "Barebone",
+  "promocao": "2.33 %"
+ },
+ {
+  "nomeDoProduto": "Lenovo ThinkCentre M60q Chromebox Mini Core i3-1215U 128GB",
+  "preco": "£250.79",
+  "marca": "Lenovo",
+  "memoriaRam": "-",
+  "processador": "-",
+  "tipoDeGabinete": "Compact",
+  "promocao": "14.03 %"
+ },
+ {
+  "nomeDoProduto": "Dell OptiPlex 7010 i5-13500 Mini Tower",
+  "preco": "£555.66",
+  "marca": "Dell",
+  "memoriaRam": "8 GB",
+  "processador": "Intel Core i5",
+  "tipoDeGabinete": "Tower, Compact",
+  "promocao": "-"
+ }
+]
