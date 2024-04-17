@@ -4,7 +4,7 @@
 O objetivo deste lab é ensinar base da biblioteca npm puppeteer
 
 ### O que é
-puppeteer é um framework do npm que é feito para utilizar junto ao node, que consiste em um navegador "autonomo" que pode ser programado para executar uma serie de ações automatizadas exatamente como um usuario, alem de ter acesso a funçoes do proprio navegador.
+puppeteer é uma biblioteca do npm que é feito para ser utilizado no nodeJS, ele consiste em um navegador "autônomo" que pode ser programado para executar uma série de ações automatizadas exatamente como um usuário, além de ter acesso a funções do próprio navegador.
 
 ## Tecnologias utilizadas
 <!-- Link com os badges para inserir abaixo https://devicon.dev/ -->
@@ -17,7 +17,7 @@ puppeteer é um framework do npm que é feito para utilizar junto ao node, que c
 Este projeto pode ser aplicado em diversas situações:
 - Testes automatizados/Interações automatizadas
 - Web scraping
-- Geração de Screenshots ou PDFs
+- Geração de Screenshots e/ou PDFs
 
 
 # Sumário
@@ -29,7 +29,7 @@ Este projeto pode ser aplicado em diversas situações:
 
 ## Instalação
 
-Siga com precisão as orientações de configuração do ambiente para assegurar eficácia consistente no desenvolvimento do projeto.
+Siga com precisão as orientações de configuração do ambiente para assegurar eficácia no desenvolvimento do projeto.
 
 * [Windows](#windows)
 * [Linux](#linux)
@@ -38,19 +38,19 @@ Siga com precisão as orientações de configuração do ambiente para assegurar
 Instale o setup da versão mais recente do node nesse link:
 https://nodejs.org/en/download
 
-Depois execute esse comando no powershell para verificar a versão:
+Depois, execute esse comando no powershell para verificar a versão:
 ```bash
 node -v
 npm -v
 ```
 #### Linux:
-Execute esse comando para instalar curl:
+Execute esse comando no shell para instalar curl:
 ```bash
 sudo apt update
 sudo apt install nodejs
 sudo apt install npm
 ```
-Para verificar a isntalação utilize:
+Para verificar a instalação utilize:
 ```bash
 node -v
 npm -v
@@ -64,10 +64,10 @@ npm -v
 ```js
 const puppeteer = require('puppeteer');
 ```
-Isso fara com que dentro da constante puppeteer ficara armazenada todas as funçoes, por isso toda vez que for requisitada ira carregar consigo tudo do puppeteer
+Isso fará com que, dentro da constante, todas as funções da biblioteca fiquem armazenadas, por isso, toda vez que for requisitada, irá carregar consigo tudo do puppeteer
 
 #### Estruturas de codigo funcional
-Para começar é importante ressaltar que a biblioteca tem algumas exigencias
+Para começar, é importante ressaltar que a biblioteca tem algumas exigências
 
 tudo deve estar contido em uma função async:
 ```js
@@ -78,21 +78,27 @@ async function nomeDaFuncao(){
 > [!IMPORTANT]
 > await é um comando indispensável para o funcinamento da biblioteca
 
-Como mas um comando especifico para abrir um navegador
+Esse é um comando específico para abrir um navegador
 ```js
 const browser = await puppeteer.launch({ timeout: 1000, headless: false });
 ```
-> headless pode ser mudado para "new", com o intuito de não ser exibido uma tela de navegador  
+> headless pode ser mudado para "new", com o intuito de não ser exibida uma tela de navegador  
 
-Para que seja funcional outro requisito nessesario teremos de colocar um comando no inicio de cada linha de comando
+Para que seja funcional, outro requisito nessesário é colocar um comando no início de cada linha de comando
 ```js
+const variavel = await comando
+// ou
 await comando
 ```
-Vamos agora para a introdução a comandos especificos
-* Abertura de uma nova pagina e para ir para uma nova url
+Agora, vamos introduzir comandos específicos
+* Abertura de uma nova guia
 ```js
 const page = await browser.newPage();
-await page.goto = page.goto('url', {timeout: 0})
+```
+
+* Ir para uma nova url na nova guia
+```js
+await page.goto('url')
 ```
 
 * Tirar uma screenshot
@@ -100,7 +106,7 @@ await page.goto = page.goto('url', {timeout: 0})
 await page.screenshot({ path: 'caminhoDoArquivo' });
 ```
 
-* Gerar um pdf da pagina
+* Gerar um pdf da página
 ```js
 await page.pdf({ path: 'caminhoDoArquivo', format: 'A4' });
 ```
@@ -115,29 +121,33 @@ await page.locator("path do html").fill('o que sera escrito');
 const element = await page.waitForSelector('body > center > form > input[type=button]');
 ```
 
-* Comando para clicar em um elemento pre-selecionado (feito no exemplo a cima)
+* Comando para clicar em um elemento pré-selecionado (feito no exemplo acima)
 ```js
 await element.click();
 ```
 
-* comando para capturar informações do site
+* Comando para capturar informações do site
 ```js
 const NomeDaVariavel = document.querySelector("path do html");
 ```
-> path do html refere ao caminho de divs e classes ate a chegada no elemento que você quer
+> path do html se refere ao caminho de divs, classes e ids até a chegada ao elemento que você quer
 
 ## Projetos
-**cada projeto tem seu roadmap proprio por isso cada um deles tem seu proprio readme**
+**cada projeto tem seu roadmap próprio, por isso cada um deles tem seu próprio readme**
 
-[Clicar botao](clicar_botao) - Programa que mostra o funcionamento de uma aplicação que clica em um botão
+[Clicar botao](clicar_botao) - Programa que mostra o funcionamento de uma aplicação a qual clica em um botão
 
-[Google forms](google_forms) - Programa que prenche 500 veses um formulario do google
+[Google forms](google_forms) - Programa que prenche 500 vezes um formulário do google
 
-[Musica](musica) - Programa que faz a converção de uma url de uma musica do Deezer e recebe uma url do Spotfy
+[Musica](musica) - Programa que faz a conversão da url de uma música no Deezer e devolve a url da mesma música no Spotfy
 
-[Gerador de pdf](pdfGenerator) - Progarama que recebe uma url e retorna um pdf da pagina
+[Gerador de pdf](pdfGenerator) - Progarama que recebe uma url e retorna um pdf da página
 
-[Prencher input](preencher_input) - Programa que prenceh um input com um texto especifico
+[Prencher input](preencher_input) - Programa que prenche um input com um texto específico
+
+[Captador de preços](prices_geter) - Programa que retorna arquivos com dados de produtos e especificações
+
+[Captador de livros](books_gater) - Progaram que retorna vários livros e suas especificações
 ## Contato
 Email: [hsnahim@gmail.com](mailto:hsnahim@gmail.com)
 
