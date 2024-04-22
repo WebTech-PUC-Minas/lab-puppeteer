@@ -128,7 +128,15 @@ await element.click();
 
 * Comando para capturar informações do site
 ```js
+const nomeDaVariavel = await page.evaluate (() => {
 const NomeDaVariavel = document.querySelector("path do html");
+return NomeDaVariavel
+}
+```
+
+* Comando para esperar ligaçoes exteriores com a internet cessarem
+```js
+await page.waitForNetworkIdle({concurrency: qunatidade de atividades simuntaneas, idleTime: tempo de inativiade })
 ```
 > path do html se refere ao caminho de divs, classes e ids até a chegada ao elemento que você quer
 
