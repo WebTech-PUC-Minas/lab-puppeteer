@@ -118,12 +118,12 @@ await page.locator("path do html").fill('o que sera escrito');
 
 * Seleção de um elemento para uma ação posterior
 ```js
-const element = await page.waitForSelector('path do html');
+const nomeDaVariavel = await page.waitForSelector('path do html');
 ```
 
 * Comando para clicar em um elemento pré-selecionado (feito no exemplo acima)
 ```js
-await element.click();
+await nomeDaVariavel.click();
 ```
 
 * Comando para capturar informações do site
