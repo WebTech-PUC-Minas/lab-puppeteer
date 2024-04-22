@@ -118,7 +118,7 @@ await page.locator("path do html").fill('o que sera escrito');
 
 * Seleção de um elemento para uma ação posterior
 ```js
-const element = await page.waitForSelector('body > center > form > input[type=button]');
+const element = await page.waitForSelector('path do html');
 ```
 
 * Comando para clicar em um elemento pré-selecionado (feito no exemplo acima)
