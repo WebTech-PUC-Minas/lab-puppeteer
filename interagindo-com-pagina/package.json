@@ -1,8 +1,8 @@
 {
-  "name": "clicar_botao",
+  "name": "interagindo-com-pagina",
   "version": "1.0.0",
   "description": "",
-  "main": "clicar_botao.js",
+  "main": "interagindo-com-pagina.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
