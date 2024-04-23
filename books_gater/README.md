@@ -20,4 +20,4 @@ npm install
 
 ## Função 
 
-O intuito deste programa consiste em obter uma URL de uma página, capturar um input e, em seguida, capturar uma captura de tela para representar a mudança.
+O intuito deste programa consiste em obter dados de livros contidos no site e colocalos em um arquivo json.

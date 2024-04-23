@@ -12,9 +12,14 @@ Para inicializar o programa para teste, é necessário instalar os pré-requisit
 npm install
 ```
 
+> No shell é nessesario estar no diretorio do projeto
+
+> [!IMPORTANT]
+> Lembre-se de ja ter feito as intruções contidas no [README](../README.md) principal
+
 ## Função 
 
 O objetivo deste programa é acessar um formulário do Google, preenchê-lo e enviar a resposta.
 
 > [!IMPORTANT]
-> Isso funciona porque o formulário não requer login.
+> O formulário não pode requer login.

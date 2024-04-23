@@ -13,6 +13,11 @@ Para inicializar o programa para teste, é necessário instalar os pré-requisit
 npm install
 ```
 
+> No shell é nessesario estar no diretorio do projeto
+
+> [!IMPORTANT]
+> Lembre-se de ja ter feito as intruções contidas no [README](../README.md) principal
+
 ## Função 
 
 O intuito deste programa consiste em receber uma URL e colocar todo o conteúdo da página em um documento PDF.
