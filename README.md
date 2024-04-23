@@ -136,7 +136,7 @@ return NomeDaVariavel
 
 * Comando para esperar ligaçoes exteriores com a internet cessarem
 ```js
-await page.waitForNetworkIdle({concurrency: qunatidade de atividades simuntaneas, idleTime: tempo de inativiade })
+await page.waitForNetworkIdle({concurrency: quantidade de atividades simultâneas, idleTime: tempo de inatividade })
 ```
 > path do html se refere ao caminho de divs, classes e ids até a chegada ao elemento que você quer
 
