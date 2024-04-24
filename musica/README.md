@@ -87,6 +87,6 @@ Selecionamos a caixa de pesquisa e escrevemos o nome e autor da musica
 
 Clicamos na musica e seguimos para sua pagina
 
-![](image/20240423_222427_image.png)
+![img](image/1713970555208.png)
 
 E apos isso o codigo ira retornar no console a url do spotify
