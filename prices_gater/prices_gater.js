@@ -59,7 +59,7 @@ async function pricesGeter() {
     //leitura dos dados
     console.log("iniciando a leitura dos dados")
     let dados = []
-    for (let i = 1; i <= 1000; i++) {
+    for (let i = 1; i <= 50; i++) {
         const adicaoDeDados = await page.evaluate((i) => {
             const x = {
                 nomeDoProduto: document.querySelector(`#content-below-header > div > div > main > div > table > tbody > tr:nth-child(${i}) > td.YrE6t9vcJY.pr-1o2xdvn-TableCell-root > div > a > span`)?.innerText || "-",
