@@ -192,11 +192,16 @@ await page.waitForNetworkIdle({concurrency: quantidade de atividades simultânea
 
 Esse lab traz vários exemplos de uso do Puppeteer. Cada projeto tem seu roadmap próprio, por isso, cada um deles tem seu próprio readme. A relação dos exemplos segue abaixo:
 
+#### Nivel 1
 * [Interagindo com a pagina](interagindo_com_pagina) - Programa que mostra o funcionamento de uma aplicação a qual clica em um botão
 * [Google forms](google_forms) - Programa que prenche 500 vezes um formulário do google
-* [Musica](musica) - Programa que faz a conversão da url de uma música no Deezer e devolve a url da mesma música no Spotfy
 * [Gerador de pdf](pdfGenerator) - Progarama que recebe uma url e retorna um pdf da página
 * [Prencher input](preencher_input) - Programa que prenche um input com um texto específico
+
+#### Nivel 2
+* [Musica](musica) - Programa que faz a conversão da url de uma música no Deezer e devolve a url da mesma música no Spotfy
+
+#### Nivel 3
 * [Captador de preços](prices_geter) - Programa que retorna arquivos com dados de produtos e especificações
 * [Captador de livros](books_gater) - Programa que retorna vários livros e suas especificações
 
