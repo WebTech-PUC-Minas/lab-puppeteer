@@ -2,13 +2,15 @@
 
 # Sumário
 
-* [Instalação](#Instalação)
-* [Código da aplicação](#código-da-aplicação)
-* [Resultado](#resultado)
+- [Interagindo com uma página](#interagindo-com-uma-página)
+- [Sumário](#sumário)
+  - [Instalação](#instalação)
+  - [Código da aplicação](#código-da-aplicação)
+  - [Resultado](#resultado)
 
 ## Instalação
 
-Para inicializar o programa para teste, é necessário instalar os pré-requisitos contidos no `package.json` Para instalá-los, basta abrir o terminal na pasta do arquivo e executar:
+Para inicializar o programa para teste, é necessário instalar os pré-requisitos contidos no `package.json`. Para instalá-los, basta abrir o terminal na pasta do arquivo e executar:
 
 ```bash
 npm install
@@ -23,7 +25,7 @@ npm install
 
 Este é o código do laboratório em que fazemos uma interação com a página por meio do clique em um botão qualquer.
 
-Para a interação, utilizamos o método `page.waitForSelector` para capturar o elemento relacionado com o botão. Em seguida, executamos o método `click` desse elemento.
+Para a interação, utilizamos o método `page.waitForSelector` para capturar o elemento relacionado ao botão. Em seguida, executamos o método `click` nesse elemento.
 
 ```JavaScript
 const puppeteer = require('puppeteer');

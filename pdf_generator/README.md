@@ -2,14 +2,17 @@
 
 # Sumário
 
-* [Instalação](#Instalação)
-* [Resultado](#resultado)
-* [Código da aplicação](#Código-da-aplicação)
-* [Mudança de teste](#Mudança_de_teste)
+- [Gerador de PDF](#gerador-de-pdf)
+- [Sumário](#sumário)
+  - [Instalação](#instalação)
+  - [Código da aplicação](#código-da-aplicação)
+  - [Resultado](#resultado)
+  - [Mudança de teste](#mudança-de-teste)
 
 ## Instalação
 
-Para inicializar o programa para teste, é necessário instalar os pré-requisitos contidos no `package.json` Para instalá-los, basta abrir o terminal na pasta do arquivo e executar:
+Para inicializar o programa para teste, é necessário instalar os pré-requisitos contidos no `package.json`. Para instalá-los, basta abrir o terminal na pasta do arquivo e executar:
+
 
 ```bash
 npm install

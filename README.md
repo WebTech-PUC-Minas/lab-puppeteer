@@ -41,9 +41,9 @@ Siga as orientações de configuração do ambiente para assegurar a preparaçã
 
 #### Windows:
 
-Instale o setup da versão mais recente do node nesse link: [https://nodejs.org/en/download](https://nodejs.org/en/download)
+Instale o setup da versão mais recente do Node.js nesse link: [https://nodejs.org/en/download](https://nodejs.org/en/download)
 
-Depois, execute esse comando no powershell para verificar a versão:
+Depois, execute esse comando no PowerShell para verificar a versão:
 
 ```bash
 node -v

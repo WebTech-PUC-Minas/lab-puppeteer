@@ -2,13 +2,15 @@
 
 # Sumário
 
-* [Instalação](#Instalação)
-* [Função](#Função)
-* [Resultado](#resultado)
+- [Comversor de musica](#comversor-de-musica)
+- [Sumário](#sumário)
+  - [Instalação](#instalação)
+  - [Código da aplicação](#código-da-aplicação)
+  - [Resultado](#resultado)
 
 ## Instalação
 
-Para inicializar o programa para teste, é necessário instalar os pré-requisitos contidos no `package.json` Para instalá-los, basta abrir o terminal na pasta do arquivo e executar:
+Para inicializar o programa para teste, é necessário instalar os pré-requisitos contidos no `package.json`. Para instalá-los, basta abrir o terminal na pasta do arquivo e executar:
 
 ```bash
 npm install
@@ -19,11 +21,11 @@ npm install
 > [!IMPORTANT]
 > Lembre-se de ja ter feito as intruções contidas no [README](../README.md) principal
 
-## Resultado
+## Código da aplicação
 
 O objetivo deste programa é criar um conversor no qual você insere um link do Deezer, e o programa retorna um link da música no Spotify.
 
-a captura do nome da musica e de sua autoria e feita pela função `page.evaluate`
+A captura do nome da música e de sua autoria é feita pela função `page.evaluate`.
 
 ```js
 const puppeteer = require("puppeteer");
@@ -65,11 +67,13 @@ async function getDadosMusica() {
 getDadosMusica();
 ```
 
+## Resultado
+
 Incialmente vamos para a pagina da musica selecionada e capturamos o nome da musica
 
-![](image/20240423_221644_image.png)
+![1713970555208](image/README/1713970555208.png)
 
-Depois vamos para a pagina do autor
+Pois vamos para a pagina do autor
 
 ![](image/20240423_221802_image.png)
 

@@ -2,13 +2,15 @@
 
 # Sumário
 
-* [Instalação](#Instalação)
-* [Código da aplicação](#Código-da-aplicação)
-* [Resultado](#Resultado)
+- [Gerador de PDF](#gerador-de-pdf)
+- [Sumário](#sumário)
+  - [Instalação](#instalação)
+  - [Código da aplicação](#código-da-aplicação)
+  - [Resultado](#resultado)
 
 ## Instalação
 
-Para inicializar o programa para teste, é necessário instalar os pré-requisitos contidos no `package.json` Para instalá-los, basta abrir o terminal na pasta do arquivo e executar:
+Para inicializar o programa para teste, é necessário instalar os pré-requisitos contidos no `package.json`. Para instalá-los, basta abrir o terminal na pasta do arquivo e executar:
 
 ```bash
 npm install
@@ -23,7 +25,7 @@ npm install
 
 O objetivo deste programa é acessar um formulário do Google, preenchê-lo e enviar a resposta.
 
-O preenchimento e feito por meio da função `page.locator().fill()`
+O preenchimento é feito por meio da função `page.locator().fill()`
 
 ```js
 

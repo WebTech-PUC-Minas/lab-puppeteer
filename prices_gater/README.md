@@ -2,9 +2,11 @@
 
 # Sumário
 
-* [Instalação](#Instalação)
-* [Código da aplicação](#código-da-aplicação)
-* [Resultado](#Resultado)
+- [Preencher Input](#preencher-input)
+- [Sumário](#sumário)
+  - [Instalação](#instalação)
+  - [Código da aplicação](#código-da-aplicação)
+  - [Resultado](#resultado)
 
 ## Instalação
 
@@ -21,9 +23,9 @@ npm install
 
 ## Código da aplicação
 
-O intuito deste programa consiste em obter dados conforme os filtros escolidos para os produtos e colocalos em um arquivo json e em um csv
+O intuito deste programa consiste em obter dados conforme os filtros escolhidos para os produtos e colocá-los em um arquivo JSON e em um CSV.
 
-A captura é feita pela função `page.evaluate`, a tranformação de um json é feito por meio `csv.json2csv` e a passagem para arquivo e feito pelo `fs.writeFileSync`
+A captura é feita pela função `page.evaluate`, a transformação de um JSON é feita por meio do `csv.json2csv` e a passagem para arquivo é feita pelo `fs.writeFileSync`.
 
 ```js
 const puppeteer = require("puppeteer")
