@@ -2,7 +2,7 @@
   "name": "pdfgenerator",
   "version": "1.0.0",
   "description": "",
-  "main": "pdfGenerator.js",
+  "main": "pdf_generator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

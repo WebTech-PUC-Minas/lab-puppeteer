@@ -28,7 +28,7 @@ async function books_gater() {
         return numPagesCorrigidos
     })
     for (let i = 2; i < quantPage; i++) {
-        for (let j = 1; j < filhosOl+1; j++) {
+        for (let j = 1; j < filhosOl + 1; j++) {
             await page.waitForSelector(`#default > div > div > div > div > section > div:nth-child(2) > ol > li:nth-child(${j}) > article > div.image_container`)
             await page.click(`#default > div > div > div > div > section > div:nth-child(2) > ol > li:nth-child(${j}) > article > div.image_container`)
             await page.waitForTimeout(500)
@@ -63,4 +63,3 @@ async function books_gater() {
     }
     await browser.close();
 }
-

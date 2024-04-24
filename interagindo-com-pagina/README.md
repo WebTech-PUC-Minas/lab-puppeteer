@@ -21,9 +21,9 @@ npm install
 
 ## Código da aplicação
 
-Este é o código do laboratório em que fazemos uma interação com a página por meio do clique em um botão qualquer. 
+Este é o código do laboratório em que fazemos uma interação com a página por meio do clique em um botão qualquer.
 
-Para a interação, utilizamos o método `page.waitForSelector` para capturar o elemento relacionado com o botão. Em seguida, executamos o método `click` desse elemento. 
+Para a interação, utilizamos o método `page.waitForSelector` para capturar o elemento relacionado com o botão. Em seguida, executamos o método `click` desse elemento.
 
 ```JavaScript
 const puppeteer = require('puppeteer');
@@ -32,16 +32,13 @@ async function clicarBotao() {
     const browser = await puppeteer.launch({ timeout: 1000, headless: false });
     const page = await browser.newPage();
     await page.goto('https://www.lncc.br/~borges/php/testar.html', { waitUntil: ['networkidle0', 'domcontentloaded'], timeout: 10000 });
-    await page.screenshot({ path: 'antes.png' });
     const element = await page.waitForSelector('body > center > form > input[type=button]');
     await element.click();
-    await page.screenshot({ path: 'depois.png' });
     await browser.close();
 }
 
 clicarBotao();
 ```
-
 
 ## Resultado
 
