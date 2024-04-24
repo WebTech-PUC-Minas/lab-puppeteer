@@ -3,7 +3,8 @@
 # Sumário
 
 * [Instalação](#Instalação)
-* [Função](#Função)
+* [Código da aplicação](#Código-da-aplicação)
+* [Resultado](#Resultado)
 
 ## Instalação
 
@@ -18,11 +19,11 @@ npm install
 > [!IMPORTANT]
 > Lembre-se de ja ter feito as intruções contidas no [README](../README.md) principal
 
-## Função
+## Código da aplicação
 
 O objetivo deste programa é acessar um formulário do Google, preenchê-lo e enviar a resposta.
 
-O preenchimento e feito por meio da função `page.locator().fill()` 
+O preenchimento e feito por meio da função `page.locator().fill()`
 
 ```js
 
@@ -55,7 +56,7 @@ Preenchera o input
 
 ![1713964955536](image/README/1713964955536.png)
 
-E enviara o formulario 
+E enviara o formulario
 
 > [!IMPORTANT]
 > O formulário não pode requerer login.
