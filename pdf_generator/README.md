@@ -13,7 +13,6 @@
 
 Para inicializar o programa para teste, é necessário instalar os pré-requisitos contidos no `package.json`. Para instalá-los, basta abrir o terminal na pasta do arquivo e executar:
 
-
 ```bash
 npm install
 ```
@@ -47,7 +46,7 @@ capturaDePDF()
 
 ## Resultado
 
-Primeiro entramos na pagina
+Primeiro entramos na pagina [https://pt.wikipedia.org/wiki/Pera](https://pt.wikipedia.org/wiki/Pera)
 
 ![1713959818521](image/README/1713959818521.png)
 

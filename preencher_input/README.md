@@ -46,7 +46,7 @@ preencherInput();
 
 ## Resultado
 
-O codigo vai entar na pagina e selecionar o input
+O codigo vai entar na pagina [https://www.lncc.br/~borges/php/testar.html](https://www.lncc.br/~borges/php/testar.html) e selecionar o input
 
 ![1713960035302](image/README/1713960035302.png)
 
