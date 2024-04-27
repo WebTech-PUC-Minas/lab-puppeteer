@@ -52,8 +52,8 @@ O codigo vai entar na pagina [https://www.lncc.br/~borges/php/testar.html](https
 
 Apos isso o codigo ira escrever algo no input
 
-![1713960122962](image/README/1713960122962.png)
+![1713960122962](image/README/1713960114928.png)
 
 E ira clicar no botão que fara seguir para a pagina gerada
 
-![1713960650157](image/README/1713960650157.png)
+![1713960650157](image/README/1713960642023.png)
