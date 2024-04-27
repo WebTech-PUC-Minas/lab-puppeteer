@@ -71,7 +71,7 @@ getDadosMusica();
 
 Incialmente vamos para a pagina da musica selecionada e capturamos o nome da musica
 
-![1713970555208](image/README/1713970555208.png)
+![1713970555208](image/20240423_221738_image.png)
 
 Pois vamos para a pagina do autor
 
